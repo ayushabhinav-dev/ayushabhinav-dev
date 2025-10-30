@@ -80,7 +80,6 @@
 <div align="center">
 
 ### 🏆 Crime Town Roleplay - FiveM Server (Personal Hobby Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushabhinav-dev&repo=Revival&theme=tokyonight&hide_border=true)](https://github.com/ayushabhinav-dev/Revival)
 
 **Passion Project Features:**
 - 🌟 QBX Core Framework with 64+ players
