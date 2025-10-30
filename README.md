@@ -65,7 +65,6 @@
 <div align="center">
 
 ### 🏆 Crime Town Roleplay - FiveM Server
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushabhinav-dev&repo=Revival&theme=tokyonight&hide_border=true)](https://github.com/ayushabhinav-dev/Revival)
 
 **Key Features:**
 - 🌟 QBX Core Framework with 64+ players
