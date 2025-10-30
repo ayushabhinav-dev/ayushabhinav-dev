@@ -34,7 +34,7 @@
 
 ### 🎓 Academic & Education
 ![Teaching](https://img.shields.io/badge/Teaching-Professor-orange?style=for-the-badge&logo=academic-cap&logoColor=white)
-![Curriculum](https://img.shields.io/badge/Curriculum-Design-purple?style=for-the-badge&logo=book&logoColor=white)
+![Curriculum](https://img.shields.io/badge/Curriculum-Medicine-purple?style=for-the-badge&logo=book&logoColor=white)
 ![Research](https://img.shields.io/badge/Academic-Research-yellow?style=for-the-badge&logo=search&logoColor=black)
 ![Mentoring](https://img.shields.io/badge/Student-Mentoring-teal?style=for-the-badge&logo=users&logoColor=white)
 
